@@ -144,7 +144,7 @@ const AnimalCare = () => {
               </p>
 
               <p className="text-lg text-gray-600 leading-relaxed mb-8 animate-slide-up" style={{ animationDelay: '0.2s' }}>
-                From zookeeper to your pet's best friend—I bring over 10 years of professional animal care experience to every walk, visit, and overnight stay.
+                From zookeeper to your pet's best friend. 💕 I bring over 10 years of professional animal care experience to every walk, visit, and overnight stay.
               </p>
 
               {/* Trust Indicators */}
